@@ -1,0 +1,7 @@
+.homeNavbar{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: left;
+    gap: 20px;
+}

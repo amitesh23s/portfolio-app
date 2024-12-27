@@ -1,0 +1,15 @@
+.educationElement{
+    display: flex;
+}
+.bulletBox{
+    width: 10%;
+    display: flex;
+    justify-content: center;
+}
+.educationContent{
+    width: 90%;
+
+    p{
+        margin: 0;
+    }
+}
